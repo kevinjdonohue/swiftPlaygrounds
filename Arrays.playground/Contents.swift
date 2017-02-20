@@ -2,6 +2,10 @@
 
 import UIKit
 
+//: Playground - noun: a place where people can play
+
+import UIKit
+
 let names = ["Kevin", "Chris", "Kate", "Kim"]
 
 names[0]
@@ -71,9 +75,3 @@ colors
 colors.count
 
 colors.capacity
-
-
-
-
-
-
